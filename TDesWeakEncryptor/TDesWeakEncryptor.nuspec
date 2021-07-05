@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>TDesWeakEncryptor</id>
+    <version>1.0.0.3</version>
+    <title>TDesWeakEncryptor</title>
+    <authors>Mansur Kurtov</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://www.nuget.org/packages/TDesWeakEncryptor</projectUrl>    
+    <description>Encryption and decryption with weak key TripleDes for some cases using</description>
+    <releaseNotes>Summary</releaseNotes>
+    <copyright>(c) 2021</copyright>
+    <tags>Weak Key</tags>
+  </metadata>
+</package>
